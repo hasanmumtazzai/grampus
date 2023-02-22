@@ -19,3 +19,6 @@ requests==2.27.1
 typing_extensions==4.0.0
 urllib3==1.26.8
 virtualenv==20.10.0
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
